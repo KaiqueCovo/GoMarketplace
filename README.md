@@ -13,7 +13,7 @@
 
 <!-- Menu -->
 <p align="center" >
-  <a href="#bookmarktabs-about-the-project"> :bookmark_tabs:  About the project</a> |
+  <a href="#book_marktabs-about-the-project"> :bookmark_tabs:  About the project</a> |
   <a href="#rocket-technologies"> :rocket:  Technologies</a> |
   <a href="#hammer-how-to-use"> :information_source:  How To Use</a>
 </p>
