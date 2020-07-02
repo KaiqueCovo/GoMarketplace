@@ -19,7 +19,10 @@
 </p>
 
 <!-- Mockup -->
-<img align="center" style="padding: 50px;" alt="Logotipo" src="./.github/mockup.png" width="auto" heigth="auto"/>
+<div  align="center" style="padding: 50px;">
+  <img alt="Logotipo" src="./.github/mockup.png" width="auto" heigth="auto"/>
+</div>
+
 </div>
 
 <!-- About -->
