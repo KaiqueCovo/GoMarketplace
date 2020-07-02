@@ -13,9 +13,9 @@
 
 <!-- Menu -->
 <p align="center" >
-  <a href="#bookmarktabs-about-the-project"> :bookmark_tabs: About the project</a> |
-  <a href="#rocket-technologies"> :rocket: Technologies</a> |
-  <a href="#hammer-how-to-use"> :information_source: How To Use</a>
+  <a href="#bookmarktabs-about-the-project"> :bookmark_tabs:  About the project</a> |
+  <a href="#rocket-technologies"> :rocket:  Technologies</a> |
+  <a href="#hammer-how-to-use"> :information_source:  How To Use</a>
 </p>
 
 <!-- Mockup -->
@@ -72,4 +72,4 @@ $ yarn android
 ```
 
 ---
-Made with ♥ by [Kaique Covo](https://www.linkedin.com/in/kaique-covo-a46331147/) :wave:
+Made with ♥  by [Kaique Covo](https://www.linkedin.com/in/kaique-covo-a46331147/) :wave:
