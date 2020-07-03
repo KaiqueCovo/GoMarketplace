@@ -13,9 +13,9 @@
 
 <!-- Menu -->
 <p align="center" >
-  <a href="#book_marktabs-about-the-project"> :bookmark_tabs:  About the project</a> |
-  <a href="#rocket-technologies"> :rocket:  Technologies</a> |
-  <a href="#hammer-how-to-use"> :information_source:  How To Use</a>
+  <a href="#bookmark_tabs-about-the-project">:bookmark_tabs:&nbsp;&nbsp;About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">:rocket:&nbsp;&nbsp;Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">:information_source:&nbsp;&nbsp;How To Use</a>
 </p>
 
 <!-- Mockup -->
