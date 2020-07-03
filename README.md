@@ -6,10 +6,10 @@
 <div align="center">
 
 <!-- Badges -->
-![GitHub top language](https://img.shields.io/github/languages/top/kaiqueCovo/GoMarketplace)
-![GitHub last commit](https://img.shields.io/github/last-commit/kaiqueCovo/GoMarketplace?color=brightgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/kaiqueCovo/GoMarketplace)
-![GitHub made by](https://img.shields.io/badge/made%20by-kaiqueCovo-brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/kaiqueCovo/GoMarketplace?color=%23E83F5B)
+![GitHub last commit](https://img.shields.io/github/last-commit/kaiqueCovo/GoMarketplace?color=%233D3D4C)
+![GitHub repo size](https://img.shields.io/github/repo-size/kaiqueCovo/GoMarketplace?color=%23E83F5B)
+![GitHub made by](https://img.shields.io/badge/made%20by-kaiqueCovo-%233D3D4C)
 
 <!-- Menu -->
 <p align="center" >
